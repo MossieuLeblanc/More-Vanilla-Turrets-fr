@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <GunComplex.label>mitrailleuse montée</GunComplex.label>
+    <GunComplex.description>Permet la production de nouvelles mitrailleuses défensives contrôlées par vos colons.</GunComplex.description>
+
+    <RocketComplex.label>lance-roquette monté</RocketComplex.label>
+    <RocketComplex.description>Permet la production de nouveaux lance-roquettes défensifs contrôlés par vos colons.</RocketComplex.description>
+
+    <MilitaryTurret.label>mitrailleuse de qualité militaire</MilitaryTurret.label>
+    <MilitaryTurret.description>Permet la production de mitrailleuses automatiques plus performantes.</MilitaryTurret.description>
+
+    <ShredderTurret.label>tourelle déchiqueteuse</ShredderTurret.label>
+    <ShredderTurret.description>Permet la production de tourelles déchiqueteuses mortelles, à courte portée.</ShredderTurret.description>
+
+    <PrecisionTurret.label>tourelle de précision</PrecisionTurret.label>
+    <PrecisionTurret.description>Permet la production de tourelles de précision, à longue portée.</PrecisionTurret.description>
+
+    <BlastTurret.label>tourelle à explosion</BlastTurret.label>
+    <BlastTurret.description>Permet la production d'effrayantes tourelles à explosion.</BlastTurret.description>
+
+    <VulcanCannon.label>canon vulcain</VulcanCannon.label>
+    <VulcanCannon.description>Permet la production de canons vulcains.</VulcanCannon.description>
+
+    <DevastatorMortar.label>mortier dévastateur</DevastatorMortar.label>
+    <DevastatorMortar.description>Permet la production de mortiers dévastateurs.</DevastatorMortar.description>
+
+</LanguageData>

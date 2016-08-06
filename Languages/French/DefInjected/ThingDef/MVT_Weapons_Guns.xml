@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <Bullet_TurretMilitary.label>balle de mitrailleuse militaire</Bullet_TurretMilitary.label>
+    <Gun_TurretMilitary.label>mitrailleuse militaire</Gun_TurretMilitary.label>
+    <Gun_TurretMilitary.description>Canons fabriqués avec soin, attachés à une tourelle.</Gun_TurretMilitary.description>
+
+    <Bullet_GunComplex.label>balle de mitrailleuse montée</Bullet_GunComplex.label>
+    <Gun_GunComplex.label>mitrailleuse montée</Gun_GunComplex.label>
+    <Gun_GunComplex.description>Mitrailleuse lourde.</Gun_GunComplex.description>
+
+    <Bullet_VulcanCannon.label>balle de canon vulcain</Bullet_VulcanCannon.label>
+    <Gun_VulcanCannon.label>canon vulcain</Gun_VulcanCannon.label>
+    <Gun_VulcanCannon.description>Canon fabriqué avec soin, attaché à une tourelle.</Gun_VulcanCannon.description>
+
+    <Bullet_TurretShredder.label>balle de tourelle déchiqueteuse</Bullet_TurretShredder.label>
+    <Gun_TurretShredder.label>tourelle déchiqueteuse</Gun_TurretShredder.label>
+    <Gun_TurretShredder.description>Un fusil déchiqueteur attaché à une tourelle.</Gun_TurretShredder.description>
+
+    <Bullet_BlastCharge.label>charge explosive</Bullet_BlastCharge.label>
+    <Gun_BlastCharge.label>tourelle à explosion</Gun_BlastCharge.label>
+    <Gun_BlastCharge.description>Un lanceur de charges explosives monté sur une plateforme stationnaire.</Gun_BlastCharge.description>
+
+    <Bullet_ComplexRocket.label>roquette</Bullet_ComplexRocket.label>
+    <Gun_RocketComplex.label>lance-roquettes monté</Gun_RocketComplex.label>
+    <Gun_RocketComplex.description>Un lance-roquettes monté sur une dalle.</Gun_RocketComplex.description>
+
+    <Bullet_DevastatorBomb.label>obus explosif dévastateur</Bullet_DevastatorBomb.label>
+    <Artillery_DevastatorBomb.label>mortier dévastatateur</Artillery_DevastatorBomb.label>
+    <Artillery_DevastatorBomb.description>Un lanceur dévastateur. Largue des bombes par dessus les murs. À moitié précise mais tire des projectiles à grande vitesse sur de longues distances.</Artillery_DevastatorBomb.description>
+    
+    <Bullet_TurretPrecision.label>balle de tourelle de précision</Bullet_TurretPrecision.label>
+    <Gun_TurretPrecision.label>tourelle de précision</Gun_TurretPrecision.label>
+    <Gun_TurretPrecision.description>Un canon de précision monté sur une tourelle.</Gun_TurretPrecision.description>
+	
+</LanguageData>

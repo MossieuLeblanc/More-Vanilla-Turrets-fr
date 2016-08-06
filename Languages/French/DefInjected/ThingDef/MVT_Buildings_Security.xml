@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <Moat.label>fossé peu profond</Moat.label>
+    <Moat.description>Un périmètre de défense pour ralentir vos ennemis. Peut être détruit par des explosifs.</Moat.description>
+    
+    <Shallowmoat.label>fossé peu profond</Shallowmoat.label>
+    <Shallowmoat.Description>Un périmètre de défense pour ralentir vos ennemis. Peut être supprimé avec l'outil "Enlever le sol".</Shallowmoat.Description>
+
+    <GunComplex.label>mitrailleuse montée</GunComplex.label>
+    <GunComplex.description>Une mitrailleuse montée conçue pour fonctionner sans électricité, mais il faut qu'un colon la manipule. Explose dans un rayon de 1, si détruit.</GunComplex.description>
+	
+    <RocketComplex.label>lance-roquette monté</RocketComplex.label>
+    <RocketComplex.description>Un ancien type d'arme, nécessitant le contrôle et le rechargement manuel. Heureusement, avec l'aide d'une bonne optique et d'une puissance d'explosion mortelle, sa présence est toujours redoutée sur la ligne de front. Explose dans un rayon de 3, si détruit.</RocketComplex.description>
+
+    <MilitaryTurretGun.label>mitrailleuse militaire</MilitaryTurretGun.label>
+    <MilitaryTurretGun.description>Une variante plus puissante de mitrailleuse automatique. Montée avec deux grands canons, elle fournit une portée accrue et une plus grande cadence de tir. A plus de chances d'exploser dans un rayon de 4, si détruit.</MilitaryTurretGun.description>
+
+    <ShredderTurretGun.label>tourelle déchiqueteuse</ShredderTurretGun.label>
+    <ShredderTurretGun.description>La tourelle déchiqueteuse est déstinée à la courte portée. Elle n'explose pas quand elle est détruite, ce qui en fait un choix parfait pour une défense d'intérieur, le seul bémol est sa taille : elle prend plus de place qu'une tourelle ordinaire.</ShredderTurretGun.description>
+
+    <PrecisionTurretGun.label>tourelle de précision</PrecisionTurretGun.label>
+    <PrecisionTurretGun.description>Une tourelle de gros calibre. Une optique avancée permet de délivrer un seul tir précis, sur une grande distance. Explose rarement dans un rayon de 2.5, si détruit.</PrecisionTurretGun.description>
+
+    <BlastTurretGun.label>tourelle à explosion</BlastTurretGun.label> 
+    <BlastTurretGun.description>La tourelle à explosion est destinée à faire des dégats à courte portée, en lancant une rafale de 3 grenades à fragmentation. Explose dans un rayon de 4.5, si détruit.</BlastTurretGun.description>
+
+    <VulcanCannon.label>canon vulcain</VulcanCannon.label>
+    <VulcanCannon.description>Une tourelle fortifiée dotée d'un minigun qui tire continuellement. Très durable, mais consomme beaucoup d'énergie. Elle est sur-élevée, tire sur de longue distance, mais elle est incapable de tirer sur tout ce qui est proche d'elle et ne peut être placée en intérieur. Explose dans un rayon de 5.1, si détruit.</VulcanCannon.description>
+	
+    <Turret_DevastatorMortarBomb.label>mortier dévastateur</Turret_DevastatorMortarBomb.label>
+    <Turret_DevastatorMortarBomb.description>Une catapulte magnétique qui lance des projectiles à plasma avec une plus grande vitesse, plus grande précision et un plus large rayon d'explosion grâce à l'éclat de cinqs obus. Ne nécessite aucun obus mais consomme beaucoup d'énergie. Attention à son énorme explosion, dans un rayon de 10 si détruit.</Turret_DevastatorMortarBomb.description>
+	
+</LanguageData>

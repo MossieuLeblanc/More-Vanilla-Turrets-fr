@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <Bullet_TurretMilitary.label>military turret bullet</Bullet_TurretMilitary.label>
+
+    <Gun_TurretMilitary.label>military turret gun</Gun_TurretMilitary.label>
+    <Gun_TurretMilitary.description>Carefully crafted gun attached to a turret.</Gun_TurretMilitary.description>
+
+    <Bullet_GunComplex.label>gun complex bullet</Bullet_GunComplex.label>
+
+    <Gun_GunComplex.label>gun complex gun</Gun_GunComplex.label>
+    <Gun_GunComplex.description>Heavy machine gun.</Gun_GunComplex.description>
+
+    <Bullet_VulcanCannon.label>vulcan cannon bullet</Bullet_VulcanCannon.label>
+
+    <Gun_VulcanCannon.label>vulcan cannon gun</Gun_VulcanCannon.label>
+    <Gun_VulcanCannon.description>Carefully crafted gun attached to a turret.</Gun_VulcanCannon.description>
+
+    <Bullet_TurretShredder.label>shredder turret bullet</Bullet_TurretShredder.label>
+
+    <Gun_TurretShredder.label>shredder turret gun</Gun_TurretShredder.label>
+    <Gun_TurretShredder.description>Shredder shotgun attached to a turret.</Gun_TurretShredder.description>
+
+    <Bullet_BlastCharge.label>blast charge</Bullet_BlastCharge.label>
+
+    <Gun_BlastCharge.label>rocket complex</Gun_BlastCharge.label>
+    <Gun_BlastCharge.description>A mounted blast charge launcher on a stationary sentry base.</Gun_BlastCharge.description>
+
+    <Bullet_ComplexRocket.label>complex rocket</Bullet_ComplexRocket.label>
+
+    <Gun_RocketComplex.label>rocket complex</Gun_RocketComplex.label>
+    <Gun_RocketComplex.description>A mounted rocket complex on a slab.</Gun_RocketComplex.description>
+
+    <Bullet_DevastatorBomb.label>explosive devastator shell</Bullet_DevastatorBomb.label>
+
+    <Artillery_DevastatorBomb.label>devastator mortar</Artillery_DevastatorBomb.label>
+    <Artillery_DevastatorBomb.description>Devastator launcher. Lobs bombs over walls. Semi inaccurate but long-ranged and fires high velocity projectiles.</Artillery_DevastatorBomb.description>
+    
+    <Bullet_TurretPrecision.label>precision turret bullet</Bullet_TurretPrecision.label>
+
+    <Gun_TurretPrecision.label>precision turret gun</Gun_TurretPrecision.label>
+    <Gun_TurretPrecision.description>A mounted precision gun on a turret.</Gun_TurretPrecision.description>
+	
+</LanguageData>
